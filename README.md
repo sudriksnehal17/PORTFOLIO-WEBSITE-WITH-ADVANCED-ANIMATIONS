@@ -30,3 +30,9 @@ JavaScript is integrated into this portfolio to introduce dynamic behavior and s
 Scroll-triggered animations are applied to skill cards and project sections, allowing elements to animate dynamically as the user scrolls through the page. This approach creates a progressive content reveal effect, making the website more engaging and interactive. Stagger animations are used to animate multiple elements sequentially, ensuring smooth timing and visual flow.
 JavaScript helps transform the portfolio from a static webpage into an interactive digital experience. The animation timing, easing functions, and scroll detection are carefully managed to maintain performance and smooth transitions.
 Overall, JavaScript adds functionality, animation control, and user engagement features, demonstrating practical implementation of modern frontend development concepts.
+
+
+
+OUTPUT :
+
+<img width="1903" height="916" alt="Image" src="https://github.com/user-attachments/assets/a079b9fb-ed63-4323-a957-1a96c9e2ee31" />
