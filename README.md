@@ -11,7 +11,6 @@ DURATION : 4 WEEKS
 
 MENTOR : NEELA SANTOSH
 
-
 HTML – Structure and Content Organization
 The HTML component of this portfolio project is responsible for defining the overall structure and content organization of the website. It serves as the foundational layer upon which styling and functionality are built. The layout is divided into clearly defined sections such as the navigation bar, hero section, about section, skills section, projects section, contact section, and footer. Each section is structured using semantic HTML5 elements like <header>, <nav>, <section>, and <footer> to improve readability, maintainability, and accessibility.
 The navigation bar is positioned at the top of the page and contains anchor links that allow users to navigate smoothly between sections. The hero section introduces the profile with a bold heading and short professional summary. Skills and projects are displayed using structured container elements that support grid-based layouts. Proper class naming conventions and logical nesting are followed to keep the code clean and scalable.
